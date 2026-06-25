@@ -4,7 +4,7 @@ Paste any code — get instant AI review for bugs, logic errors, edge cases, and
 
 ## Live Demo
 
-[code-review-tool.vercel.app](https://code-review-tool.vercel.app)
+[code-review-tool.vercel.app](code-review-tool-mu.vercel.app)
 
 ## Features
 
